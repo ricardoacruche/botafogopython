@@ -1,0 +1,12 @@
+def big_mac ():
+    print ("sanduiche big_mac")
+
+
+# chamar a funcao big mac
+print ("inicio")
+
+big_mac ()
+big_mac ()
+big_mac ()
+big_mac ()
+big_mac ()

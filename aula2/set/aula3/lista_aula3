@@ -1,0 +1,7 @@
+sul = ["rs", "sc", "pr"]
+sul2 = sul.copy()
+sul3 = sul.count (sul)
+
+print (sul)
+print (sul2)
+print (sul3)
